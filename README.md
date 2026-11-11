@@ -25,14 +25,14 @@ Here are some of the main features implemented in this project:
 
 ## Technologies Used
 
- Technology      How it is used 
-
- Python         Main programming language 
- Tkinter        Creating the graphical dashboard 
- Socket Programming  Communication between servers and clients 
- JSON           Exchanging messages and information 
- SymPy          Supporting mathematical operations 
- Python Libraries  Handling networking and other system operations 
+| Technology | How it is used |
+|---|---|
+| Python | Main programming language |
+| Tkinter | Creating the graphical dashboard |
+| Socket Programming | Communication between servers and clients |
+| JSON | Exchanging messages and information |
+| SymPy | Supporting mathematical operations |
+| Python Libraries | Handling networking and other system operations |
 
 ## How the System Works
 
